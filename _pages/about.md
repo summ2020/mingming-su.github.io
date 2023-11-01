@@ -43,13 +43,16 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 # 📝 Under Review
 Update soon
+
 # 🎖 Honors and Awards
 - *2021/2022* Academic Scholarship, Zhejiang University.
 - *2020.06* Excellent Graduate and Graduation Thesis, Dalian University of Technology.
 - *2017/2018/2019* First-class Academic (top 5%) Scholarship, Dalian University of Technology.
+
 # 📖 Educations
 - *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
 - *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
+
 # 💬 Conference
 - *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: Mingming Su, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
 on thermodynamics”, Oral Presentation.
