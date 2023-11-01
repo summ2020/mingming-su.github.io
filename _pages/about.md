@@ -96,8 +96,6 @@ on thermodynamics”, Oral Presentation.
 
 
 # 💻 PROFESSIONAL EXPERIENCE
-- *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
-- *2020.06 - 2020.08*, Research Assistant at [Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD)](https://www.sibd.org.cn/) , Taiyuan, China.
-- *2016.07 - 2018.05*, Flight Dispatcher at [Zhejiang Loong Airlines Co., Ltd.](https://en.wikipedia.org/wiki/Loong_Air), Xiaoshan, China.
+- *2022.06 - 2018.08*, Quantitative Research Assistant at [Nanhua Futures Co., Ltd.](https://www.nanhua.net/), Hangzhou, China.
 
 # [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
