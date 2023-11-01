@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Mingming Su"
 description              : "Ph.D. Candidate in Zhejiang University, foucus on combination of deep learning and computational mechanics, Physics-informed neural networks, Numerical simulation and Differentiable physics."
-#repository               : "yizheng-wang/yizheng-wang.github.io"
+#repository               : "summ2020/summ.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yizheng-wang"
+  github           : "summ2020"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "一铮-王-095335207"
+  linkedin         : "https://www.linkedin.com/in/mingming-su-92408b221/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
