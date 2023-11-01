@@ -26,6 +26,9 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2023.08*: &nbsp;🎉🎉 My first paper [MFNN](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620) is accepted by NAG!
 - *2022.10*: &nbsp;🎉🎉 I have an oral presentation at [CMGM-2022](http://www.cmgm.net.cn/) conference!
 
+# 📖 Educations
+- *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
+- *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
 
 # 📝 Publications 
 
@@ -44,21 +47,17 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 # 📝 Under Review
 Update soon
 
+# 💬 Conference
+- *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: Mingming Su, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
+on thermodynamics”, Oral Presentation.
+
+# 💻 PROFESSIONAL EXPERIENCE
+- *2022.06 - 2022.08*, Quantitative Research Assistant at [Nanhua Futures Co., Ltd.](https://www.nanhua.net/), Hangzhou, China.
+
 # 🎖 Honors and Awards
 - *2021/2022* Academic Scholarship, Zhejiang University.
 - *2020.06* Excellent Graduate and Graduation Thesis, Dalian University of Technology.
 - *2017/2018/2019* First-class Academic (top 5%) Scholarship, Dalian University of Technology.
 
-# 📖 Educations
-- *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
-- *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
-
-# 💬 Conference
-- *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: Mingming Su, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
-on thermodynamics”, Oral Presentation.
-
-
-# 💻 PROFESSIONAL EXPERIENCE
-- *2022.06 - 2022.08*, Quantitative Research Assistant at [Nanhua Futures Co., Ltd.](https://www.nanhua.net/), Hangzhou, China.
 
 # [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
