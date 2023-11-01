@@ -30,9 +30,9 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CENN: Conservative energy method based on neural networks with subdomains for solving variational problems involving heterogeneous and complex geometries](https://www.sciencedirect.com/science/article/pii/S0045782522005096)
+[A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620)
 
-**Yizheng Wang**, Jia Sun, Wei Li, Zaiyuan Lu, Yinghua Liu
+**Mingming Su**, Ning Guo, Zhongxuan Yang
 
 [**PDF**](https://arxiv.org/pdf/2110.01359.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A deep energy method with subdomains, suitable to solve non-uniform problems with complex boundaries. 
