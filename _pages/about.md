@@ -27,7 +27,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2022.10*: &nbsp;🎉🎉 I have an oral presentation at [CMGM-2022](http://www.cmgm.net.cn/) conference!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/MFNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620)
