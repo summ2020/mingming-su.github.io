@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Mingming Su. I'm a Ph.D. student in Department of Civil Engineering , Zhejiang University, supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
+Hi, my name is Mingming Su. I'm a Ph.D. student in Department of Civil Engineering, Zhejiang University, supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
@@ -89,19 +89,13 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 - *2020.06* Won the 12th place in the 2020 Baidu Star Developer Competition (out of 2,312 teams)!
 - *2019.09 - 2022.06* Participated in the John Ma Cup of Tsinghua University 6 times, 5 times in the top 8 of the school!
 # 📖 Educations
-- *2024.08 - future*, Ph.D in Department of Engineering Mechanics, Tsinghua University, Beijing, China
-- *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
-- *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
+- *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
+- *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
 # 💬 Conference
-- *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”.
+- *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: Mingming Su, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
+on thermodynamics”, Oral Presentation.
 
-- *2023.07*, [DACOMA-23](http://dacoma.org.cn/), Beijing, China: only participate
 
-- *2023.05*, [DDCM2023](https://www.d-dcm.cn/), Dalian, China: Yizheng Wang, and Yinghua Liu. “A deep complementary energy method for solid mechanics using minimum complementary energy principle.” Oral Presentation at “Data-driven numerical simulation of complex mechanical behavior.”
-
-- *2022.09*, [DACOMA-22](http://dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu)
-
-- *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.”
 # 💻 PROFESSIONAL EXPERIENCE
 - *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
 - *2020.06 - 2020.08*, Research Assistant at [Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD)](https://www.sibd.org.cn/) , Taiyuan, China.
