@@ -69,4 +69,4 @@ on thermodynamics”, Oral Presentation.
 - 🏀Playing basketball
 - 📸Photography
 
-#[My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
+# [My CV](https://github.com/summ2020/mingming-su.github.io/blob/main/docs/CV_Mingming%20Su.pdf)
