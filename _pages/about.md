@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Mingming Su. I will be a Ph.D. student in Department of Civil Engineering , Zhejiang University (2024), supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
+Hi, my name is Mingming Su. I will be a Ph.D. student in Department of Civil Engineering , Zhejiang University, supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
