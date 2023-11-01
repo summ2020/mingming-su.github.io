@@ -26,7 +26,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2023.08*: &nbsp;🎉🎉 My first paper [MFNN](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620) is accepted by NAG!
 - *2022.10*: &nbsp;🎉🎉 I have an oral presentation at [CMGM-2022](http://www.cmgm.net.cn/) conference!
 
-# 🎓 📖 Educations
+# 🎓 Educations
 - *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
 - *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
 
@@ -59,7 +59,7 @@ on thermodynamics”, Oral Presentation.
 - *2020.06* Excellent Graduate and Graduation Thesis, Dalian University of Technology.
 - *2017/2018/2019* First-class Academic (top 5%) Scholarship, Dalian University of Technology.
 
-# 🎖 Skills
+# 📖 Skills
 - **Languages**: Strong reading, writing and speaking competencies for English, Mandarin Chinese.
 - **Coding**: Python, C, Matlab, LaTeX, ...
 -         Tensorflow, Pytorch, JAX, ...
