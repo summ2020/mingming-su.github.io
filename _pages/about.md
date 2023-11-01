@@ -19,8 +19,7 @@ redirect_from:
 
 Hi, my name is Mingming Su. I'm a Ph.D. student in Department of Civil Engineering, Zhejiang University, supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
 
-I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
-
+My research areas include: deep learning, computational mechanics, numerical simulation, differentiable physics, etc. Specifically, I am particularly interested in data-driven computational mechanics, physics-informed neural networks(PINNs), graph neural networks (GNNs), etc.
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My first paper [MFNN](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620) is accepted by NAG!
