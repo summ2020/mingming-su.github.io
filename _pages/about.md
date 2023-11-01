@@ -59,5 +59,10 @@ on thermodynamics”, Oral Presentation.
 - *2020.06* Excellent Graduate and Graduation Thesis, Dalian University of Technology.
 - *2017/2018/2019* First-class Academic (top 5%) Scholarship, Dalian University of Technology.
 
+# 🎖 Skills
+-Languages: Strong reading, writing and speaking competencies for English, Mandarin Chinese.
+-Coding: Python, C, Matlab, \LaTeX, ...
+	      Tensorflow, Pytorch, JAX, ...
 
-# [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
+
+## [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
