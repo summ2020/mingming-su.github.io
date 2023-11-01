@@ -27,29 +27,18 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2022.10*: &nbsp;🎉🎉 I have an oral presentation at [CMGM-2022](http://www.cmgm.net.cn/) conference!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/MFNN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAG</div><img src='images/MFNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors](https://onlinelibrary.wiley.com/doi/abs/10.1002/nag.3620)
 
 **Mingming Su**, Ning Guo, Zhongxuan Yang
 
-[**PDF**](https://arxiv.org/pdf/2110.01359.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A deep energy method with subdomains, suitable to solve non-uniform problems with complex boundaries. 
+[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nag.3620) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+#
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/BINN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BINN: A deep learning approach for computational mechanics problems based on boundary integral equations](https://www.sciencedirect.com/science/article/pii/S0045782523001366)
-
-Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
-
-[**PDF**](https://arxiv.org/pdf/2301.04480.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Combine boundary element method with PINNs for the first time. 
-</div>
-</div>
 # 📝 Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
