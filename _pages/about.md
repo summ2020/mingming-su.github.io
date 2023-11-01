@@ -48,7 +48,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 Update soon
 
 # 💬 Conference
-- *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: Mingming Su, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
+- *2022.10*, [CMGM-2022](http://www.cmgm.net.cn/), Hangzhou, China: **Mingming Su**, Ning Guo, Yang Yu and Zhongxuan Yang. “A neural network constitutive model for granular materials based
 on thermodynamics”, Oral Presentation.
 
 # 💻 PROFESSIONAL EXPERIENCE
@@ -60,8 +60,8 @@ on thermodynamics”, Oral Presentation.
 - *2017/2018/2019* First-class Academic (top 5%) Scholarship, Dalian University of Technology.
 
 # 🎖 Skills
-- Languages: Strong reading, writing and speaking competencies for English, Mandarin Chinese.
-- Coding: Python, C, Matlab, LaTeX, ...
+- **Languages**: Strong reading, writing and speaking competencies for English, Mandarin Chinese.
+- **Coding**: Python, C, Matlab, LaTeX, ...
 -         Tensorflow, Pytorch, JAX, ...
 
 
