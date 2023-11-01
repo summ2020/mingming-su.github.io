@@ -40,7 +40,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 **Mingming Su**, Ning Guo, Zhongxuan Yang
 
 [**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nag.3620) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--How to cite this article: Su M, Guo N, Yang Z. A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors. Int J Numer Anal Methods.2023;1-21.https://doi.org/10.1002/nag.3620
+
+-*How to cite this article*: Su M, Guo N, Yang Z. A multifidelity neural network (MFNN) for constitutive modeling of complex soil behaviors. Int J Numer Anal Methods.2023;1-21.https://doi.org/10.1002/nag.3620
 </div>
 </div>
 
