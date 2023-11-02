@@ -26,8 +26,8 @@ My research areas include: deep learning, computational mechanics, numerical sim
 - *2022.10*: &nbsp;🎉🎉 I have an oral presentation at [CMGM-2022](http://www.cmgm.net.cn/) conference!
 
 # 🎓 Educations
-- *2020.09 - future*, Ph.D in Department of Civil Engineering, Zhejiang University, Hangzhou, China
-- *2016.09 - 2020.06*, Bachelor from Department of Civil Engineering, Dalian University of Technology, Dalian, China
+- *2020.09 - future*, Ph.D in Geotechnical Engineering, Zhejiang University, Hangzhou, China
+- *2016.09 - 2020.06*, Bachelor in Civil Engineering, Dalian University of Technology, Dalian, China
 
 # 📝 Publications 
 
