@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+![image](https://github.com/summ2020/mingming-su.github.io/blob/main/images/rve.png)
 
 Hi, my name is Mingming Su. I'm a Ph.D. student in Department of Civil Engineering, Zhejiang University, supervised by [Prof. Ning Guo](https://person.zju.edu.cn/nguo). I major in Geotechnical Engineering.
 
